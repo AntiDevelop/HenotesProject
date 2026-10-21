@@ -73,21 +73,59 @@ Everything above has a normal explanation until it doesn't:
 
 ---
 
+## The Twist: Ruth Is a Target Too
+
+Ruth thinks she's the investigator. The cult sees her as the next recruit. **She fits their profile exactly**, and the film quietly shows her being recruited by the same funnel she's exposing.
+
+### Why Ruth is isolated
+- **She grew up with a severe stutter.** She was the "weird kid," like Barbara and Katie. As an adult she hides behind the camera so she never has to be on screen.
+- **Her life is empty:** 44, divorced, no kids, a mother who recently died. Her small films get a few hundred views. Her sister **Joan** is her only real contact, and they've grown distant.
+- She takes Katie's case because she **sees herself in Barbara**. That makes her the perfect target.
+
+### Ruth's video diaries
+Between investigation scenes, the editor includes Ruth's **late-night webcam diaries**, recorded alone in her kitchen. They show her slow slide:
+
+| Diary | What we see |
+|---|---|
+| **#1** | Exhausted, sharp, a little bitter. Her stutter slips out when she's tired. "Nobody's going to watch this one either." |
+| **#2** | She admits she relistened to Barbara's phone call three times. "Emma's voice is... it's so *kind.* I haven't had anyone talk to me like that in years." |
+| **#3** | She went to a Starshiners confidence workshop "undercover." She's defensive: "It's research." But she describes being hugged by strangers and crying in the car. |
+| **#4** | She's using the free skincare sample "to see what's in it." Her skin looks better. She hasn't spoken to Joan in three weeks. |
+| **#5** | She drank the Tonic once at a workshop "for the story." **Her stutter is gone.** She doesn't seem to notice. |
+| **#6** | Her posture is noticeably straighter. She talks about Katie with a strange new pity: "She'd be so much happier if she just let go." Then she catches herself, scared, and stops recording. |
+| **#7** | Night before the farm. Calm. Almost peaceful. "I keep thinking about what Lena said, writing your name on your hand. I don't think I'd want to." |
+
+### The signs that Ruth is going
+- **Teo notices first.** Ruth starts saying her full name on every slate, slow and clear, though she used to mumble it. She defends the cult in small ways ("they're not *all* bad"). She skips footage review and lies about where she's been.
+- **Ruth cuts herself off** the same way the cult teaches: she lets Joan's calls go to voicemail and tells Teo, "Joan always kept me in shadow."
+- **Lena warns her** in a second meeting: "I know that look. You've already had a cup, haven't you?" Ruth denies it.
+- **The overlays:** in a late diary, Ruth's face is a few percent closer to the shared face. Joan, as editor, runs the overlay herself and includes it.
+
+### The reveal
+At the farm, the ledger holds 61 lines of *Ruth Calloway* in her own handwriting. We assume, as Ruth claims, that they're "just the slates." Then the editor shows the dates: **every signature lines up with a night she recorded a diary.** She wasn't tricked. She came back to sign, night after night, and recorded the diaries afterward without remembering.
+
+When Ruth walks to the Krater, it isn't a sudden possession. **It's the end of a choice she'd been making for weeks.** Her last words aren't a scream. They're relief: "I'm so tired of being the only one."
+
+---
+
 ## Plot
 
 1. **The farm, 1986.** A vet's tape: a black sheep bursts open and gives birth to a perfect white lamb that isn't hers. Three years later, the farm is sold to the S.S. Community Trust.
-2. **The email.** Katie, who has the same deep voice as Barbara, writes to Ruth: "My best friend is gone, but she's still here." Barbara is now "Zora," a mentor in the Bright Path program. Ruth assumes it's a classic cult case: a vulnerable teen, a parent who's been coached, a new name.
+2. **The email.** Katie, who has the same deep voice as Barbara, writes to Ruth: "My best friend is gone, but she's still here." Barbara is now "Zora," a mentor in the Bright Path program. Ruth assumes it's a classic cult case: a vulnerable teen, a parent who's been coached, a new name. **Diary #1** introduces Ruth's loneliness and her childhood stutter.
 3. **The paper trail.** Tax filings, the retracted 2012 exposé, the school partnership contracts, Barbara's intake form and NDA, the cartoon tapes found in clinic waiting rooms. It's a grounded true-crime investigation.
-4. **The phone recording.** Barbara's call with Emma is textbook love-bombing, and it ends with Emma asking for her full name. After Barbara hangs up, the recording keeps going, and a crowd chants her name. This is the first thing that can't be explained.
-5. **The ex-member.** "Lena" left at the Spark rank and is still being sued. She explains the Shedding, the Naming, and the nightly Constellation gathering. She writes her birth name on her hand every morning because she keeps forgetting it, which she blames on the Tonic.
-6. **The scholar.** Adam, a classicist, connects the doctrine to an ancient rite: the inscription on the Krater reads *"Give your name. Drink. Become one."* He warns Ruth: "They can only take what's *given*. Don't say your name into that camera." He is later recruited through his care home's "wellness program" and makes a "miraculous recovery."
-7. **The cracks widen.** The face overlays. The yearbook. Emma's age. Kids leaving school in perfect step. State headlines celebrating zero bullying.
-8. **The call.** Ruth calls the number for an interview. Emma already knows her name, because Ruth has said it on every interview slate.
-9. **The farm.** It's a polished retreat center with a receptionist, waivers, and a "medical suite." The ledger has Ruth's name 61 times in her own handwriting, and **Katie's name is penciled in next**. In the barn, hundreds of Constellation members stand in rows: Barbara, Bella, Adam, Barbara's mother. They turn and welcome Ruth home. She walks to the Krater willingly. Teo escapes but forgets his name while driving.
-10. **After.** Ruth appears on local news promoting her new documentary, *Become One*, now an official foundation project. Teo leaves a voicemail warning, "It only needs the different ones," then, mid-sentence, asks for the listener's name.
-11. **The last tape.** Katie is now the only deep voice left at her school, and her mother has joined a "Family Harmony" group. She watches the hidden Part II of the cartoon, which reveals that **Hermes was Henotes all along**. She calls the number: "My name is Katelyn—"
-12. **Ending.** A final ad shows a white flock turning toward one black sheep: "Still the only one? You don't have to be." Every name in the credits dissolves into one name, **HENOTES**, and then one word, **ἕν** ("one").
+4. **The phone recording.** Barbara's call with Emma is textbook love-bombing, and it ends with Emma asking for her full name. After Barbara hangs up, the recording keeps going, and a crowd chants her name. This is the first thing that can't be explained. **Diary #2:** Ruth can't stop relistening to Emma's voice.
+5. **Undercover.** Ruth attends a Starshiners workshop with a hidden camera. It's warm, welcoming and harmless-looking. Teo's footage shows her crying when a stranger hugs her. **Diaries #3 and #4.**
+6. **The ex-member.** "Lena" left at the Spark rank and is still being sued. She explains the Shedding, the Naming, and the nightly Constellation gathering. She writes her birth name on her hand every morning because she keeps forgetting it, which she blames on the Tonic.
+7. **The scholar.** Adam, a classicist, connects the doctrine to an ancient rite: the inscription on the Krater reads *"Give your name. Drink. Become one."* He warns Ruth: "They can only take what's *given*. Don't say your name into that camera." He is later recruited through his care home's "wellness program" and makes a "miraculous recovery." **Diary #5:** Ruth's stutter is gone.
+8. **The cracks widen.** The face overlays. The yearbook. Emma's age. Kids leaving school in perfect step. State headlines celebrating zero bullying. At the same time, **Teo watches Ruth change**: the straight posture, the slow, clear slates, the ignored calls from Joan. Lena's second warning. **Diary #6.**
+9. **The call.** Ruth calls the number for an interview. Emma already knows her name: "You've been saying it to us for weeks, Ruth. We're so proud of you." Teo begs her not to go. **Diary #7.**
+10. **The farm.** It's a polished retreat center with a receptionist, waivers, and a "medical suite." The ledger has Ruth's name 61 times in her own handwriting, each signature dated to a diary night, and **Katie's name is penciled in next**. In the barn, hundreds of Constellation members stand in rows: Barbara, Bella, Adam, Barbara's mother. They turn and welcome Ruth home. She walks to the Krater willingly, relieved: "I'm so tired of being the only one." Teo escapes but forgets his name while driving.
+11. **After.** Ruth appears on local news, radiant and fluent, without a trace of the stutter, promoting her new documentary, *Become One*, now an official foundation project. Joan's editor's note: "My sister was always afraid of being seen. Now she can't stop smiling at the camera." Teo leaves a voicemail warning, "It only needs the different ones," then, mid-sentence, asks for the listener's name.
+12. **The last tape.** Katie is now the only deep voice left at her school, and her mother has joined a "Family Harmony" group. She watches the hidden Part II of the cartoon, which reveals that **Hermes was Henotes all along**. She calls the number: "My name is Katelyn—"
+13. **Ending.** A final ad shows a white flock turning toward one black sheep: "Still the only one? You don't have to be." Every name in the credits dissolves into one name, **HENOTES**, and then one word, **ἕν** ("one").
 
 ## Theme
 
 The original script's *conformity vs. individualism*, taken literally. The scariest part is how **normal** the Starshiners look: a charity, a support group, a glow-up trend. The monster's promise is that **no one will ever be lonely again**.
+
+Ruth's fall makes this personal. The person exposing the cult is just as lonely as its victims. The film suggests that anyone, including the viewer, could say yes for the same reason.
